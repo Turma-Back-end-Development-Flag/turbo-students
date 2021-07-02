@@ -6,3 +6,4 @@ Turbo Students is a directory of all students
 - [Example Student](students/example.md)
 - [Eduardo Philip](students/eduardo.md)
 - [Vitor](students/vitor.md)
+- [Joao](students/joaogitgit.md)
